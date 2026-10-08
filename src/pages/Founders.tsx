@@ -7,20 +7,20 @@ const founders = [
 
    {
     name: "Sushant Kumar",
-    role: "Sales Specialist",
+    role: "FOUNDER & CEO",
     bio: "Driving client acquisition, strategic partnerships, and business growth for high-impact tech ventures.",
     image: su1
   }, 
 
   {
     name: "Sanya Chauhan",
-    role: "B.Tech CSE Full Stack Developer",
+    role: "CO-FOUNDER & HEAD OF ENGINEERING",
     bio: "Specializing in robust MERN & Next.js full-stack development, database architecture, and secure authentication systems.",
     image: myyyyfinalpicImg,
   },
   {
     name: "Abhisek Kumar",
-    role: "B.Tech CSE Full Stack Developer",
+    role: "CO-FOUNDER & CTO",
     bio: "Expert in scalable backend routing, API integration, and high-performance frontend interfaces.",
     image: annImg,
   },
