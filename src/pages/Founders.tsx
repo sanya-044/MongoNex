@@ -1,4 +1,4 @@
-import React from "react";
+
 import annImg from "../assets/ann.png";
 import myyyyfinalpicImg from "../assets/myyyyfinalpic.png";
 import sushImg from "../assets/sush.png";
