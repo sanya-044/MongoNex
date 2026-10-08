@@ -2,7 +2,16 @@
 import annImg from "../assets/ann.png";
 import myyyyfinalpicImg from "../assets/myyyyfinalpic.png";
 import sushImg from "../assets/sush.png";
+import su1 from "../assets/su1.jpeg";
 const founders = [
+
+   {
+    name: "Sushant Kumar",
+    role: "Sales Specialist",
+    bio: "Driving client acquisition, strategic partnerships, and business growth for high-impact tech ventures.",
+    image: su1
+  }, 
+
   {
     name: "Sanya Chauhan",
     role: "B.Tech CSE Full Stack Developer",
@@ -15,12 +24,7 @@ const founders = [
     bio: "Expert in scalable backend routing, API integration, and high-performance frontend interfaces.",
     image: annImg,
   },
-  {
-    name: "Sushant Kumar",
-    role: "Sales Specialist",
-    bio: "Driving client acquisition, strategic partnerships, and business growth for high-impact tech ventures.",
-    image: sushImg
-  },
+ 
 ];
 
 export default function Founders() {
