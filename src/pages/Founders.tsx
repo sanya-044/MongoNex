@@ -6,10 +6,10 @@ import su1 from "../assets/su1.jpeg";
 const founders = [
 
    {
-    name: "Sushant Kumar",
+    name: "Sushant Singh",
     role: "FOUNDER & CEO",
     bio: "Driving client acquisition, strategic partnerships, and business growth for high-impact tech ventures.",
-    image: su1
+    image: su1i
   }, 
 
   {
