@@ -2,7 +2,7 @@
 import annImg from "../assets/ann.png";
 import myyyyfinalpicImg from "../assets/myyyyfinalpic.png";
 //import sushImg from "../assets/sush.png";
-import su1 from "../assets/su1.jpeg";
+//import su1 from "../assets/su1.jpeg";
 const founders = [
 
   //  {
