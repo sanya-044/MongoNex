@@ -5,12 +5,12 @@ import myyyyfinalpicImg from "../assets/myyyyfinalpic.png";
 import su1 from "../assets/su1.jpeg";
 const founders = [
 
-   {
-    name: "Sushant Singh",
-    role: "FOUNDER & CEO",
-    bio: "Driving client acquisition, strategic partnerships, and business growth for high-impact tech ventures.",
-    image: su1i
-  }, 
+  //  {
+  //   name: "Sushant Singh",
+  //   role: "FOUNDER & CEO",
+  //   bio: "Driving client acquisition, strategic partnerships, and business growth for high-impact tech ventures.",
+  //   image: su1i
+  // }, 
 
   {
     name: "Sanya Chauhan",
